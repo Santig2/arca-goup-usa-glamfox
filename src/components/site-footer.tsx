@@ -1,7 +1,7 @@
 import Image from "next/image";
-import { Mail } from "lucide-react";
+import { Mail, Phone } from "lucide-react";
 import { useTranslations } from "next-intl";
-import { InstagramIcon, YoutubeIcon } from "@/components/social-icons";
+import { InstagramIcon } from "@/components/social-icons";
 
 interface FooterLink {
   label: string;
@@ -30,7 +30,7 @@ export function SiteFooter() {
             </p>
             <div className="mt-5 flex items-center gap-3">
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/ksecretsbeauty/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GLAMFOX on Instagram"
@@ -39,20 +39,18 @@ export function SiteFooter() {
                 <InstagramIcon className="size-4" />
               </a>
               <a
-                href="https://youtube.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                aria-label="GLAMFOX on YouTube"
-                className="press-scale flex size-9 cursor-pointer items-center justify-center rounded-full bg-card text-foreground/70 transition-colors hover:text-coral"
-              >
-                <YoutubeIcon className="size-4" />
-              </a>
-              <a
                 href={`mailto:${t("email")}`}
                 aria-label="Email GLAMFOX"
                 className="press-scale flex size-9 cursor-pointer items-center justify-center rounded-full bg-card text-foreground/70 transition-colors hover:text-coral"
               >
                 <Mail className="size-4" />
+              </a>
+              <a
+                href={`tel:${t("phone")}`}
+                aria-label="Call GLAMFOX"
+                className="press-scale flex size-9 cursor-pointer items-center justify-center rounded-full bg-card text-foreground/70 transition-colors hover:text-coral"
+              >
+                <Phone className="size-4" />
               </a>
             </div>
           </div>

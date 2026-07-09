@@ -143,13 +143,31 @@
     "companyLinks": [
       { "label": "Our Story", "href": "#ingredients" },
       { "label": "Reviews", "href": "#reviews" },
-      { "label": "Contact", "href": "mailto:hello@glamfox.us" }
+      { "label": "Contact", "href": "/contact" }
     ],
     "contactHeading": "Contact",
-    "email": "hello@glamfox.us",
+    "email": "info@arcagusa.com",
+    "phone": "754-300-7348",
     "disclosure": "GLAMFOX is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. As an Amazon Associate, we earn from qualifying purchases at no additional cost to you.",
     "copyright": "GLAMFOX. All rights reserved.",
     "sponsoredBy": "Sponsored by ARCA GROUP USA",
     "builtBy": "Built by ADDSTRATEGIC LLC"
+  },
+  "contact": {
+    "headline": "Get in touch",
+    "subhead": "Have a question about our products or your order? We're here to help.",
+    "emailLabel": "Email us",
+    "email": "info@arcagusa.com",
+    "phoneLabel": "Call or Text",
+    "phone": "754-300-7348",
+    "socialLabel": "Follow us",
+    "social": "@ksecretsbeauty",
+    "responseTime": "Our team aims to respond to all inquiries within 24 hours.",
+    "formTitle": "Send us a message",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSubmit": "Send Message",
+    "formSuccess": "Thank you! Your message has been sent."
   }
 }
