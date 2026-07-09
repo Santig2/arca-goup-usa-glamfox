@@ -48,7 +48,7 @@ export function FeaturedProduct() {
           <Reveal delay={0.1}>
             <div className="relative aspect-square w-full max-w-[600px] mx-auto overflow-hidden">
               <Image
-                src="/images/products/retinol-collagen-serum.jpg"
+                src="/images/products/retinol-collagen-double-effect.jpg"
                 alt="Retinol + Collagen Double Effect Serum"
                 fill
                 sizes="(min-width: 1024px) 50vw, 100vw"

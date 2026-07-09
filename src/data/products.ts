@@ -33,7 +33,7 @@ export const products: Product[] = [
     vendor: "ARCA Group USA LLC",
     amazonLink: "https://www.amazon.com/-/es/GlamFox-Retinol-suero-col%C3%A1geno-efecto/dp/B08QS7JQ52/ref=sr_1_2?dib=eyJ2IjoiMSJ9.fTJHshtVxkeGQ4i2ZWjbgoJkTMOEMcTJuv1--0qznNqUXbDJO6hbgEK9ZE8-6-9qEzMdUrjDLoETQEO9W_Oc-L0hsucbdApkUVzGkVDfAIvFdc74Q9FCsVoG5BEZZ3lQ21_s1OX6D-L7C_X7xL82zpiVQtrClT2nv8aW2tYjDf-Ie3mHN5oEFZ_bKWHQqQVKxMfhqjXpeiPqqS6ejze5OA9n6IN1JRX-llvqkMj7_kQ._E9lnEyEydKEHcSi2Xuermhy7-Z1XDgqDCO8MlDdD5U&dib_tag=se&m=A10U9JZBG90RWV&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1783577015&s=merchant-items&sr=1-2",
     imageCategory: "serum",
-    image: "/images/products/retinol-collagen-serum.jpg"
+    image: "/images/products/retinol-collagen-double-effect.jpg"
   },
   {
     id: "rice-niacinamide-serum",

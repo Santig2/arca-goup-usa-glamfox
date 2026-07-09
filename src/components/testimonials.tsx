@@ -15,7 +15,7 @@ interface Testimonial {
 const REVIEW_IMAGES = [
   "/images/products/ginseng-peptide-face-cream.jpg",
   "/images/products/rice-niacinamide-serum.jpg",
-  "/images/products/retinol-collagen-serum.jpg",
+  "/images/products/retinol-collagen-double-effect.jpg",
   "/images/products/rice-niacinamide-cleansing-oil-brightening-and-hydrating.jpg",
   "/images/products/rice-niacinamide-toner.jpg",
   "/images/products/ginseng-collagen-wrap-mask.jpg",
