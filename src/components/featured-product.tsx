@@ -52,7 +52,7 @@ export function FeaturedProduct() {
                 alt="Retinol + Collagen Double Effect Serum"
                 fill
                 sizes="(min-width: 1024px) 50vw, 100vw"
-                className="object-contain mix-blend-multiply drop-shadow-sm scale-[1.15] origin-right sm:scale-100 sm:origin-center"
+                className="object-contain scale-[1.15] origin-right sm:scale-100 sm:origin-center"
               />
             </div>
           </Reveal>

@@ -24,7 +24,7 @@ export function ProductCard({ product }: { product: Product }) {
             alt={product.name}
             fill
             sizes="(min-width: 1024px) 320px, (min-width: 640px) 45vw, 90vw"
-            className="object-contain p-4 mix-blend-multiply drop-shadow-sm transition-transform duration-300 ease-out group-hover:scale-[1.06]"
+            className="object-contain p-4 drop-shadow-sm transition-transform duration-300 ease-out group-hover:scale-[1.06]"
             onError={() => setImgError(true)}
           />
         ) : (
