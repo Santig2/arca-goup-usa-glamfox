@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "title": "GLAMFOX | Korean Skincare for Glass Skin — Shop on Amazon",
+    "description": "GLAMFOX Korean skincare essentials — rice niacinamide, retinol + collagen, and glazed lip care for deep hydration and lasting glow. Shop the full collection on Amazon."
+  },
+  "nav": {
+    "shop": "Shop",
+    "skincare": "Ingredients",
+    "reviews": "Reviews",
+    "catalog": "Full Catalog",
+    "cta": "Shop on Amazon"
+  },
+  "hero": {
+    "headline": "The standard for glass skin.",
+    "subhead": "Korean skincare formulated with Jeju camellia oil and fermented rice. For deep hydration and a quiet glow.",
+    "ctaPrimary": "Shop the Collection",
+    "ctaSecondary": "See Best Sellers",
+    "microtrust": "Sold on Amazon · Prime shipping · Secure checkout"
+  },
+  "trustBar": {
+    "items": [
+      { "label": "Prime Shipping", "detail": "Fast, free delivery on eligible orders" },
+      { "label": "Secure Amazon Checkout", "detail": "Every order protected by Amazon" },
+      { "label": "Cruelty-Free Formulas", "detail": "Never tested on animals" },
+      { "label": "Easy Returns", "detail": "Amazon's standard return policy applies" },
+      { "label": "Dermatologist Tested", "detail": "Safe and effective for sensitive skin" },
+      { "label": "Authentic K-Beauty", "detail": "Formulated and crafted in South Korea" },
+      { "label": "Clean Ingredients", "detail": "No harsh chemicals or parabens" },
+      { "label": "Visible Results", "detail": "Real changes you can see and feel" }
+    ]
+  },
+  "featured": {
+    "label": "Introducing",
+    "headline": "Retinol + Collagen Serum",
+    "subhead": "Double Effect Serum",
+    "mainDesc": "Carefully selected ingredients from clean Jeju nature.",
+    "subDesc": "Care for your skin to make it more healthy and deeply hydrated.",
+    "cta": "Check Price on Amazon",
+    "bubbles": [
+      {
+        "title": "Squalane Oil",
+        "desc": "Moisturizing protection"
+      },
+      {
+        "title": "Jeju Camellia Oil",
+        "desc": "Skin soothing"
+      },
+      {
+        "title": "Collagen",
+        "desc": "Deep hydration retention"
+      }
+    ]
+  },
+  "grid": {
+    "headline": "Shop the Collection",
+    "subhead": "Six formulas, one philosophy: fewer ingredients, doing more, without the sting.",
+    "cta": "Check Price on Amazon",
+    "ratingLabel": "reviews"
+  },
+  "story": {
+    "headline": "Kyulgoun: the standard we formulate to",
+    "body1": "GLAMFOX takes its name from a fox — sharp, deliberate, unmistakable — and its standard from a Korean word: 결고운 (kyulgoun), which describes skin so fine-grained and even it looks almost translucent. It's not a marketing word. It's the actual bar every formula has to clear before it ships.",
+    "body2": "That means fermented rice for brightening instead of harsh acids, Jeju-grown camellia oil in place of synthetic emollients, and actives like retinol and snail mucin dosed for daily use, not once-a-week damage control. Fewer steps, real ingredients, visible results.",
+    "pillars": [
+      { "title": "Jeju Camellia Oil", "detail": "A cold-pressed, antioxidant-rich oil traditionally used across Jeju Island to seal in moisture without weighing skin down." },
+      { "title": "Fermented Rice", "detail": "Korea's original brightening ingredient — rice water and niacinamide, fermented for better absorption and a more even tone." },
+      { "title": "Retinol + Collagen", "detail": "A double-effect pairing dosed gently enough for nightly use, firming and smoothing without the usual retinol sting." }
+    ]
+  },
+  "testimonials": {
+    "headline": "What glass skin actually looks like",
+    "subhead": "Real feedback from real customers who bought through Amazon.",
+    "items": [
+      {
+        "name": "Jenna R.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "The ginseng peptide cream is so nourishing and lightweight. It absorbs beautifully and my skin feels incredibly firm and bouncy every morning."
+      },
+      {
+        "name": "Maya T.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "I've tried a lot of niacinamide serums and this rice-based one is the first that didn't pill under makeup. My skin looks noticeably brighter after three weeks."
+      },
+      {
+        "name": "Priya S.",
+        "location": "Verified Amazon Purchase",
+        "rating": 4,
+        "quote": "The retinol + collagen serum is gentle enough that I use it every night, which is more than I can say for anything else in my routine. Fine lines around my eyes are visibly softer."
+      },
+      {
+        "name": "Courtney B.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "This cleansing oil melts off all my makeup instantly without drying my skin. The rice extract really leaves my face looking brighter and completely clean."
+      },
+      {
+        "name": "Sarah M.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "The rice toner is a game-changer. My skin feels instantly hydrated and perfectly prepped for my serums. It gives a beautiful, subtle glow."
+      },
+      {
+        "name": "Linda K.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "I'm obsessed with this wrapping mask! It locks in all my skincare and leaves my face feeling incredibly plump and deeply moisturized."
+      },
+      {
+        "name": "Emily C.",
+        "location": "Verified Amazon Purchase",
+        "rating": 4,
+        "quote": "The red bean eye cream actually helps with puffiness! It's rich but absorbs fast, and my under-eyes look much more awake."
+      },
+      {
+        "name": "Jessica W.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "This foam cleanser leaves my face feeling fresh but not stripped. The subtle exfoliation from the rice powder is perfect."
+      },
+      {
+        "name": "Amanda P.",
+        "location": "Verified Amazon Purchase",
+        "rating": 5,
+        "quote": "Matcha and retinol is the combo I never knew I needed. My skin texture has improved drastically without any redness or irritation."
+      }
+    ]
+  },
+  "newsletter": {
+    "headline": "Glass skin, delivered.",
+    "body": "Every GLAMFOX formula ships from Amazon — Prime shipping, secure checkout, easy returns.",
+    "cta": "Browse the Full Collection"
+  },
+  "footer": {
+    "blurb": "Korean skincare formulated for real routines — fermented rice, Jeju camellia oil, and actives dosed for daily use.",
+    "shopHeading": "Shop",
+    "shopLinks": [
+      { "label": "All Products", "href": "#shop" },
+      { "label": "Best Sellers", "href": "#featured" }
+    ],
+    "companyHeading": "Company",
+    "companyLinks": [
+      { "label": "Our Story", "href": "#ingredients" },
+      { "label": "Reviews", "href": "#reviews" },
+      { "label": "Contact", "href": "mailto:hello@glamfox.us" }
+    ],
+    "contactHeading": "Contact",
+    "email": "hello@glamfox.us",
+    "disclosure": "GLAMFOX is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. As an Amazon Associate, we earn from qualifying purchases at no additional cost to you.",
+    "copyright": "GLAMFOX. All rights reserved.",
+    "sponsoredBy": "Sponsored by ARCA GROUP USA",
+    "builtBy": "Built by ADDSTRATEGIC LLC"
+  }
+}
