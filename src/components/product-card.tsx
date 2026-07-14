@@ -59,7 +59,7 @@ export function ProductCard({ product }: { product: Product }) {
             ))}
           </div>
           <span>
-            {rating} ({reviewCount.toLocaleString()} {t("ratingLabel")})
+            {rating} ({reviewCount.toLocaleString("en-US")} {t("ratingLabel")})
           </span>
         </div>
 

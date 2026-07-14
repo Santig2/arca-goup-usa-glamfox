@@ -13,7 +13,7 @@ const SLIDES = [
   { src: "/images/hero/hero-3.png", alt: "GLAMFOX Premium Skincare" },
   { src: "/images/hero/hero-4.png", alt: "GLAMFOX Glass Skin Essentials" },
   { src: "/images/hero/hero-5.png", alt: "GLAMFOX Natural Ingredients" },
-  { src: "/images/hero/hero-6.png", alt: "GLAMFOX Korean Formulation" },
+  { src: "/images/hero/hero-6-m.png", alt: "GLAMFOX Korean Formulation" },
   { src: "/images/hero/hero-7.png", alt: "GLAMFOX Skincare Science" },
   { src: "/images/hero/hero-8.jpeg", alt: "GLAMFOX Standard" },
 ];
@@ -168,7 +168,7 @@ export function Hero() {
                   {featuredProduct.rating ?? 4.8}
                   <span className="text-muted-foreground font-normal">
                     {" "}
-                    from {(featuredProduct.reviewCount ?? 1204).toLocaleString()}+ reviews
+                    from {(featuredProduct.reviewCount ?? 1204).toLocaleString("en-US")}+ reviews
                   </span>
                 </p>
               </motion.div>

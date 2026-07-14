@@ -9,7 +9,7 @@ import { Reveal } from "@/components/reveal";
 
 const STORY_IMAGES = [
   "/images/hero/hero-5.png",
-  "/images/hero/hero-6.png",
+  "/images/hero/hero-6-m.png",
   "/images/hero/hero-7.png",
   "/images/hero/hero-8.jpeg",
 ];
