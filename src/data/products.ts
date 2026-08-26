@@ -22,9 +22,22 @@ export interface Product {
   image?: string;
   rating?: number;
   reviewCount?: number;
+  comingSoon?: boolean;
 }
 
 export const products: Product[] = [
+  {
+    id: "retinol-collagen-eye-cream",
+    name: "Retinol + Collagen Eye Cream (30ml)",
+    shortDescription: "K-Beauty Anti-Aging Under Eye Cream with 3-Ball Cooling Roller Applicator for Appearance of Wrinkles, Dark Circles & Puffiness",
+    price: "$23.95",
+    vendor: "ARCA Group USA LLC",
+    amazonLink: "https://www.amazon.com/-/es/s?i=merchant-items&me=A10U9JZBG90RWV&language=es&marketplaceID=ATVPDKIKX0DER&qid=1787615170&xpid=n-SA46Cj8j1lQ&ref=sr_pg_1",
+    imageCategory: "eye_care",
+    image: "/images/products/Retinol+Collagen Eye Cream.png",
+    comingSoon: true,
+    tags: ["New Arrival"]
+  },
   {
     id: "retinol-collagen-double-serum",
     name: "Retinol + Collagen Double Effect Serum",
@@ -227,4 +240,4 @@ export const products: Product[] = [
   }
 ];
 
-export const featuredProduct = products[0];
+export const featuredProduct = products.find(p => p.id === "retinol-collagen-double-serum") as Product;

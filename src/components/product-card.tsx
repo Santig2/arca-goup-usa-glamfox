@@ -43,6 +43,11 @@ export function ProductCard({ product }: { product: Product }) {
         <h3 className="font-heading text-lg leading-snug tracking-[-0.01em] text-foreground">
           {product.name}
         </h3>
+        {product.comingSoon && (
+          <span className="mt-1 block text-sm font-semibold text-coral uppercase tracking-wider">
+            Coming Soon
+          </span>
+        )}
         <p className="mt-2 flex-1 text-sm leading-relaxed text-muted-foreground">
           {product.shortDescription}
         </p>
