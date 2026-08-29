@@ -32,10 +32,9 @@ export const products: Product[] = [
     shortDescription: "K-Beauty Anti-Aging Under Eye Cream with 3-Ball Cooling Roller Applicator for Appearance of Wrinkles, Dark Circles & Puffiness",
     price: "$23.95",
     vendor: "ARCA Group USA LLC",
-    amazonLink: "https://www.amazon.com/-/es/s?i=merchant-items&me=A10U9JZBG90RWV&language=es&marketplaceID=ATVPDKIKX0DER&qid=1787615170&xpid=n-SA46Cj8j1lQ&ref=sr_pg_1",
+    amazonLink: "https://www.amazon.com/-/es/Glamfox-Crema-retinol-col%C3%A1geno-Anti-envejecimiento/dp/B0H4KXX3W1/ref=sr_1_28?dib=eyJ2IjoiMSJ9.Rd4uYMHvh0M3sYiZGY2lNHjQm5Em8TfbBXrdh5cXrxsFMb8P8Fb5gAFYrFOR-N5pUX2dN7rqxPayAXu3qZVSbLVzE8OEa32DJb6LwdOE9aSCz2xDOL-Yxrluv8wsKTN3jVjUyVcaIVQZPAaJr2DZPahMBDuukLdtMQ4LHToqoRMMpvo7qJpjxEU2JqXfH-TBq-yHH9pbdga0aLyh4g96z8jaHUOTpRWw91QSw_HloqE.Xsp-B5_oGyJivsEbe6B7eGT6IUY18Xgj0r0CljuLKjA&dib_tag=se&m=A10U9JZBG90RWV&marketplaceID=ATVPDKIKX0DER&nsdOptOutParam=true&qid=1788043578&s=merchant-items&sr=1-28&xpid=u5WdJTv2VAxg6",
     imageCategory: "eye_care",
     image: "/images/products/Retinol+Collagen Eye Cream.png",
-    comingSoon: true,
     tags: ["New Arrival"]
   },
   {
